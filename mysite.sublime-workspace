@@ -1,0 +1,245 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"err",
+				"error_val"
+			],
+			[
+				"th",
+				"theta"
+			],
+			[
+				"The",
+				"Theta1"
+			],
+			[
+				"Theta1",
+				"Theta1_grad"
+			],
+			[
+				"T",
+				"Theta2"
+			],
+			[
+				"all",
+				"all_theta"
+			],
+			[
+				"J",
+				"J_history"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"package control",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/haiwenni/Documents/mysite"
+	],
+	"file_history":
+	[
+		"/Users/haiwenni/Google Drive/SQL_Class/May 2017/lec5/ch4_hw_solution.sql",
+		"/Users/haiwenni/Dropbox/Documents/CV/risk_management_Dec2016.tex",
+		"/Users/haiwenni/Google Drive/SQL_Class/July 2017/lec4/Case C/caseC_main.sql",
+		"/Users/haiwenni/Dropbox/SQL_Class/Season 2/ch5/S2_Class4_hw_solution.sql",
+		"/Users/haiwenni/Dropbox/SQL_Class/Season 2/ch5/S2_Class2_student.sql",
+		"/Users/haiwenni/Dropbox/SQL_Class/Season 2/ch5/ch5/Case C/caseC_import.sql",
+		"/Users/haiwenni/Dropbox/SQL_Class/Season 2/ch5/ch5/Case C/caseC_main_student.sql",
+		"/Users/haiwenni/Dropbox/SQL_Class/Season 1/Workshop/WIKI-AAPL.csv",
+		"/Users/haiwenni/Downloads/S2_Class4_hw_solution.sql",
+		"/Users/haiwenni/Dropbox/SQL_Class/Season 2/ch5/StockPrice.csv",
+		"/Users/haiwenni/Dropbox/SQL_Class/Season 2/ch3/ch2_hw_solution.sql",
+		"/Users/haiwenni/Dropbox/SQL_Class/Season 1/Ch4/ch4_subquery.sql",
+		"/Users/haiwenni/Downloads/Ch2/S2_Class2_student.sql",
+		"/Users/haiwenni/Dropbox/SQL_Class/Season 2/ch3/ch3_hw_solution.sql",
+		"/Users/haiwenni/Library/Application Support/Übersicht/widgets/XiamiRadio.widget/XiamiFM.coffee",
+		"/Users/haiwenni/Library/Application Support/Übersicht/widgets/getting-started.coffee",
+		"/Users/haiwenni/Dropbox/SQL_Class/Case C/caseC_import.sql",
+		"/Users/haiwenni/Dropbox/SQL_Class/Case C/caseC_main.sql",
+		"/Users/haiwenni/Dropbox/SQL_Class/Case C/IG_to_Rating.csv",
+		"/Users/haiwenni/Dropbox/SQL_Class/Case C/LT_Rating_to_IG.csv",
+		"/Users/haiwenni/Dropbox/SQL_Class/Case C/Bond_Jan_2016.csv",
+		"/Users/haiwenni/Dropbox/SQL_Class/Ch2/ch2_main.sql",
+		"/Users/haiwenni/Documents/octave/notes.txt",
+		"/Users/haiwenni/Documents/octave/machine-learning-ex5/ex5/trainLinearReg.m",
+		"/Users/haiwenni/Documents/octave/machine-learning-ex5/ex5/ex5.m",
+		"/Users/haiwenni/Documents/octave/machine-learning-ex5/ex5/learningCurve.m",
+		"/Users/haiwenni/Documents/octave/machine-learning-ex5/ex5/linearRegCostFunction.m",
+		"/Users/haiwenni/Documents/octave/machine-learning-ex4/ex4/nnCostFunction.m",
+		"/Users/haiwenni/Documents/octave/machine-learning-ex3/ex3/predict.m",
+		"/Users/haiwenni/Documents/octave/machine-learning-ex3/ex3/lrCostFunction.m",
+		"/Users/haiwenni/Documents/octave/machine-learning-ex4/ex4/ex4.m",
+		"/Users/haiwenni/Documents/octave/machine-learning-ex4/ex4/sigmoidGradient.m",
+		"/Users/haiwenni/Documents/octave/machine-learning-ex3/ex3/predictOneVsAll.m",
+		"/Users/haiwenni/Documents/octave/machine-learning-ex3/ex3/oneVsAll.m",
+		"/Users/haiwenni/Documents/octave/machine-learning-ex2/ex2/costFunctionReg.m",
+		"/Users/haiwenni/Documents/octave/machine-learning-ex2/ex2/ex2.m",
+		"/Users/haiwenni/Documents/octave/machine-learning-ex2/ex2/ex2_reg.m",
+		"/Users/haiwenni/Documents/octave/machine-learning-ex2/ex2/costFunction.m",
+		"/Users/haiwenni/Documents/octave/machine-learning-ex2/ex2/predict.m",
+		"/Users/haiwenni/Documents/octave/machine-learning-ex2/ex2/sigmoid.m",
+		"/Users/haiwenni/Documents/octave/machine-learning-ex1/ex1/gradientDescent.m",
+		"/Users/haiwenni/Documents/octave/machine-learning-ex1/ex1/ex1.m",
+		"/Users/haiwenni/Documents/octave/machine-learning-ex1/ex1/computeCost.m",
+		"/Users/haiwenni/Documents/octave/machine-learning-ex1/ex1/warmUpExercise.m",
+		"/Users/haiwenni/Documents/octave/machine-learning-ex1/ex1/plotData.m"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "mysite.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
